@@ -16,6 +16,9 @@
 
 <br />
 
+### 📕 Latest Blog Posts:
+- [Deploy Node-express app to Heroku: 8 easy steps](https://dzone.com/articles/deploy-your-node-express-app-on-heroku-in-8-easy-s)
+
 ### Languages,Tools and Frameworks:
 
 <p align="left">
@@ -43,8 +46,4 @@
   
 <br />
   
-### 📕 Latest Blog Posts
-
-
-- [Deploy Node-express app to Heroku: 8 easy steps](https://dzone.com/articles/deploy-your-node-express-app-on-heroku-in-8-easy-s)
 
