@@ -41,3 +41,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <p>
 <br/>
+  
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Deploy Node-express app to Heroku: * easy steps](https://dzone.com/articles/deploy-your-node-express-app-on-heroku-in-8-easy-s)
+<!-- BLOG-POST-LIST:END -->
